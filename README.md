@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NellieGH
+- 👋 Hi, I’m @Nellie
 - 👀 I’m interested in data science and web development
 - 🌱 I’m currently learning data science and javascript
 - 💞️ I’m looking to collaborate on data science projects 
